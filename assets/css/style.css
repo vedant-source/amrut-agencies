@@ -2077,9 +2077,9 @@ section {
   width: 100%;
 }
 
-.read-more-text {
+/* .read-more-text {
   display: none;
-}
+} */
 
 .content {
   height: 100%;
@@ -2089,3 +2089,11 @@ section {
   height: 100%;
   object-fit: cover;
 }
+
+.read-more-btn {
+  font-weight: 700;
+  color: #4154f1;
+  cursor: pointer;
+}
+
+#more {display: none;}
