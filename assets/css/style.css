@@ -2068,3 +2068,11 @@ section {
   font-size: 13px;
   color: #012970;
 }
+
+/* Our changes */
+
+/* Map */
+#map {
+  height: 100%;
+  width: 100%;
+}
