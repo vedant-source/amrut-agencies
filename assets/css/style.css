@@ -2080,3 +2080,12 @@ section {
 .read-more-text {
   display: none;
 }
+
+.content {
+  height: 100%;
+}
+
+#image-who-we-are {
+  height: 100%;
+  object-fit: cover;
+}
