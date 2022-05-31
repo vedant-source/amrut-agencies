@@ -1307,7 +1307,7 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients .clients-slider .swiper-slide img {
-  opacity: 0.5;
+  /* opacity: 0.5; */
   transition: 0.3s;
 }
 .clients .clients-slider .swiper-slide img:hover {
@@ -2096,4 +2096,6 @@ section {
   cursor: pointer;
 }
 
-#more {display: none;}
+#more {
+  display: none;
+}
